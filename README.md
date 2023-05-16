@@ -4,8 +4,19 @@
 todo
 ```
 
-## How to run the app ?
-You can run the app with :
+## Setup
+Clone the repo :
+```bash
+$ git clone https://github.com/zHatsuharu/App-Messagerie.git
+```
+
+Go in the folder and install packages :
+```bash
+$ cd App-Messagerie
+$ yarn install
+```
+
+Run the app with :
 ```bash
 $ yarn electron:serve
 ```
